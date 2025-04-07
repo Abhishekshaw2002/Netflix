@@ -1,5 +1,7 @@
 # Netflix
 
+![intro](https://github.com/Abhishekshaw2002/Netflix/blob/d763cabdde2f459625d8a49cfb7aca2765cae5ec/Img%20Used/Netflix.png)
+
 # Problem Statement:
 The project aims to analyze Netflix data to identify trends, viewership patterns, and content performance. The challenge is to sift through large volumes of data, detect meaningful insights, and present the findings in an accessible format. This analysis seeks to answer key questions such as: Which shows or movies perform best? What viewing trends can be observed over time? How do regional preferences vary?
 
@@ -80,6 +82,8 @@ Scalability: Optimize the model for handling larger datasets and more frequent u
  # Conclusion:
 This project demonstrates how Excel can be leveraged for comprehensive data analysis on Netflix’s performance. Despite challenges with data quality and tool limitations, the project successfully provided actionable insights through a structured analytical model and effective visualizations. The documentation highlights the systematic approach taken—from requirement gathering to model development and report publishing. Future enhancements will focus on scalability and advanced analytics, ensuring that the project remains relevant and valuable for strategic decision-making.
 
+# Screenshot:
+![intro](https://github.com/Abhishekshaw2002/Netflix/blob/d763cabdde2f459625d8a49cfb7aca2765cae5ec/Img%20Used/Screenshot%202025-04-08%20002139.png)
 
 
 

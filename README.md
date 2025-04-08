@@ -83,7 +83,7 @@ Scalability: Optimize the model for handling larger datasets and more frequent u
 This project demonstrates how Excel can be leveraged for comprehensive data analysis on Netflix’s performance. Despite challenges with data quality and tool limitations, the project successfully provided actionable insights through a structured analytical model and effective visualizations. The documentation highlights the systematic approach taken—from requirement gathering to model development and report publishing. Future enhancements will focus on scalability and advanced analytics, ensuring that the project remains relevant and valuable for strategic decision-making.
 
 # Screenshot:
-![intro](https://github.com/Abhishekshaw2002/Netflix/blob/d763cabdde2f459625d8a49cfb7aca2765cae5ec/Img%20Used/Screenshot%202025-04-08%20002139.png)
+![intro](https://github.com/Abhishekshaw2002/Netflix/blob/5d130ffb11e6088125b5dc960817ea5a61ee40a2/Img%20Used/Screenshot%202025-04-08%20113450.png)
 
 
 
